@@ -6,5 +6,5 @@ There are total 10 tasks.
 The visuals are named as Challenge 1 and Respective Task numbers are given.
 
 
-Note Back: Tasks 1 and 2 are loading the data and transforming the data into POWER BI and creating relationships amaong the table data, date
+Note Back: Tasks 1 and 2 are loading the data and transforming the data into POWER BI and creating relationships among the table data, date
 and costs.
